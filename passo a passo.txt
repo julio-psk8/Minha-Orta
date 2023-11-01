@@ -1,0 +1,5 @@
+			-----INICIO DO PROJETO -----
+
+
+--- ler e e mostrar no Display "oled" a umidade do solo 
+--- mostrar o ligameno da bomba no display o led
